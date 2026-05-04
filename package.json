@@ -1,0 +1,23 @@
+{
+  "name": "hyperfabric-operator",
+  "version": "0.0.1",
+  "description": "hyperfabric-operator",
+  "keywords": [
+    "hyperfabric-operator"
+  ],
+  "homepage": "https://github.com/stephan-rafay/hyperfabric-operator#readme",
+  "bugs": {
+    "url": "https://github.com/stephan-rafay/hyperfabric-operator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephan-rafay/hyperfabric-operator.git"
+  },
+  "license": "ISC",
+  "author": "Stephan Benny",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
