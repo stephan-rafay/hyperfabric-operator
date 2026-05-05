@@ -1,3 +1,0 @@
-```
-helm install hf-operator ./hyperfabric-operator-0.0.1.tgz -n hf-operator --create-namespace
-```
